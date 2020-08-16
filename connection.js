@@ -6,7 +6,7 @@ exports.connect = async () => {
         port: 3306,
         user: 'root',
         password: 'root',
-        database: 'employees'
+        database: 'organization'
     });
     return connection;
 }
