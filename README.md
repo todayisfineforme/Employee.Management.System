@@ -147,10 +147,3 @@ Follow these guidelines for committing:
 We would like you to have well over 200 commits by graduation, so commit early and often!
 
 
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URL of the GitHub repository
-
-* A video demonstrating the entirety of the app's functionality 
