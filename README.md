@@ -4,10 +4,10 @@ CLI utilizing express and mySQL2 that allows employers to create and manage empl
 
 ## Installation
 
-Use the node package manager [npm](https://nodejs.org/en/) to install foobar.
+Use the node package manager [npm](https://nodejs.org/en/) to install the Employee Management System.
 
 ```bash
-npm install foobar
+npm install
 ```
 
 ## Usage
