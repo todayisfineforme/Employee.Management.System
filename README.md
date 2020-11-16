@@ -1,6 +1,6 @@
 # Employee Management System
 
-Foobar is a Python library for dealing with word pluralization.
+CLI utilizing express and mySQL2 that allows employers to create and manage employee profiles to keep track of their workforce. profiles include department and position.
 
 ## Installation
 
